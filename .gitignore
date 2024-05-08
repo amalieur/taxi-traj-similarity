@@ -1,5 +1,5 @@
-dataset/train.csv
-dataset/cleaned_data.csv
+subset_selection/train.csv
+subset_selection/cleaned_data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
