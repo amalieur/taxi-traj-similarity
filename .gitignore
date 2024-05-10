@@ -2,6 +2,7 @@ subset_selection/train.csv
 subset_selection/cleaned_data.csv
 subset_selection/subset-6-percent-NY-1-MAI.csv
 subset_selection/subset-6-new-index.csv
+subset_selection/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
